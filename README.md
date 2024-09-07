@@ -1,6 +1,6 @@
 # ___CRUD_project___
 
-### __This Project was created to use API to perform the crud operations, which are__
+### __This Project was created to use API performing the crud operations, which are__
 
  * #### Create: Inserting a new user
  * #### Read: Selecting the information of the user 
